@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm Andrey, a four-year student in Fundamental Inf
   - Data visualization 📊
   - Machine Learning trends and best practices
 - 📫 How to reach me: 
-  - [Email](aak-204@yandex.ru)
+  - aak-204@yandex.ru
 - 😄 Pronouns: Don't specify
 - ⚡ Fun fact: I love solving complex puzzles and challenges, both in tech and in life!
 
