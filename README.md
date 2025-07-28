@@ -1,31 +1,34 @@
-## Hi there 👋
+## 👋 Hi there! I'm Andrey Korchemkin
 
-Welcome to my GitHub profile! I'm Andrey, a four-year student in Fundamental Informatics just beginning my journey into Machine Learning and Data Science. Here's a little more about me:
+Welcome to my GitHub!
 
-- 🔭 I’m currently working on: 
-  - Developing foundational ML models for real-world applications
-  - Exploring advanced data analysis techniques
-- 🌱 I’m currently learning: 
-  - Deep Learning algorithms and their practical implementations
-  - Core Machine Learning algorithms
-- 👯 I’m looking to collaborate on: 
-  - Open-source ML projects
-  - Data-driven research studies
-- 🤔 I’m looking for help with: 
-  - Improving model accuracy and performance
-  - Exploring new AI methodologies
-- 💬 Ask me about: 
-  - Python programming 🐍
-  - Data visualization 📊
-  - Machine Learning trends and best practices
-- 😄 Pronouns: Don't specify
-- ⚡ Fun fact: I love solving complex puzzles and challenges, both in tech and in life!
+I'm a Junior ML/DS Engineer with hands-on experience in:
+- 🧠 Machine Learning
+- 🖼️ Computer Vision
+- 📊 Data Analytics
+- 📄 NLP and Text Processing
 
-### Languages and Technologies I Work With:
-- **Python** 🐍
-- **C++**
-- **C#**
-- **SQL**
-- **RabbitMQ**
-- **Java**
-- **JavaScript**
+🔧 I’ve built and deployed real-world projects using Python, PyTorch, Open3D, Scikit-learn, and Transformers.  
+🎓 My diploma project focused on safety systems in railway transport using deep learning on point clouds and RGB data.  
+🏆 Finalist and prize-winner of national ML/AI hackathons (2nd place — Digital Marathon 2025, 3rd — CodeRun, finalist in Yandex Olympiad).
+
+### 🔭 Currently working on:
+- OCR + GenAI experiments (LLMs + LangChain)
+- RAG pipelines for structured document retrieval
+- ML model evaluation and visualization tools
+
+### 💡 I'm interested in:
+- AI for Science / Finance / Safety
+- Efficient ML model deployment (ONNX, Streamlit, Gradio)
+- Deep learning architectures for multi-modal data
+
+### 📫 How to reach me:
+- Email: aak-204@yandex.ru  
+- Telegram: [@aak205](https://t.me/aak205)  
+- Resume: [View CV](https://disk.yandex.ru/i/4sWnhVoAZo1QpQ)
+
+---
+
+### 🚀 Languages & Tools
+**Python**, SQL, PyTorch, Scikit-learn, OpenCV, Open3D, Huggingface, Flask, Streamlit, Gradio, Docker  
+**Also worked with:** Java, C++, RabbitMQ, JavaScript
