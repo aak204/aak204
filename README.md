@@ -2,33 +2,39 @@
 
 Welcome to my GitHub!
 
-I'm a Junior ML/DS Engineer with hands-on experience in:
-- 🧠 Machine Learning
-- 🖼️ Computer Vision
-- 📊 Data Analytics
-- 📄 NLP and Text Processing
+I'm a **Middle ML Engineer** specializing in production AI systems:
+- 🤖 **Vision-Language Models** (VLM) & Large Language Models deployment
+- 🖼️ **Computer Vision** & Document AI (OCR, layout analysis)
+- 🏗️ **MLOps** & Infrastructure (Docker, vLLM, multi-GPU inference)
+- 📄 **NLP** & Structured Data Extraction
 
-🔧 I’ve built and deployed real-world projects using Python, PyTorch, Open3D, Scikit-learn, and Transformers.  
-🎓 My diploma project focused on safety systems in railway transport using deep learning on point clouds and RGB data.  
-🏆 Finalist and prize-winner of national ML/AI hackathons (2nd place — Digital Marathon 2025, 3rd — CodeRun, finalist in Yandex Olympiad).
+### 🏢 Professional Experience
+**ML Engineer @ SibinTek Soft** (Rosneft subsidiary)  
+- Built AI verification system for construction documentation using **Qwen 32B VL**, reducing manual verification from **5-6 days to 2-3 hours**
+- Developed multi-page **PDF→Excel digitization pipeline** (KS-2 forms) with Qwen VLM + matching algorithms
+- Deployed production VLM inference on **3x RTX A4000** cluster via vLLM + Docker, processing **800 pages/hour** with parallel optimization
+- Created AI assistant prototype for Excel with natural language formula generation
 
-### 🔭 Currently working on:
-- OCR + GenAI experiments (LLMs + LangChain)
-- RAG pipelines for structured document retrieval
-- ML model evaluation and visualization tools
+### 🎓 Education & Research
+Bachelor's in Software Development — Diploma project on **railway safety systems** using deep learning on point clouds (Open3D) and RGB data.
 
-### 💡 I'm interested in:
-- AI for Science / Finance / Safety
-- Efficient ML model deployment (ONNX, Streamlit, Gradio)
-- Deep learning architectures for multi-modal data
+### 🏆 Achievements
+- 🥈 **2nd place** — Digital Marathon 2025
+- 🥉 **3rd place** — CodeRun ML Competition
+- 🎯 **Finalist** — Yandex ML Olympiad
 
-### 📫 How to reach me:
-- Email: aak-204@yandex.ru  
-- Telegram: [@aak205](https://t.me/aak205)  
-- Resume: [View CV](https://disk.yandex.ru/i/4sWnhVoAZo1QpQ)
+### 🔭 Current Focus
+- Vision-Language Models for document understanding & verification
+- Production LLM deployment optimization (quantization, inference tuning)
+- Multi-agent AI systems with Model Context Protocol (MCP)
 
----
+### 🚀 Tech Stack
+**Core:** Python, PyTorch, Transformers, vLLM, LangChain  
+**CV/VLM:** OpenCV, Open3D, Qwen VL, OCR pipelines  
+**MLOps:** Docker, CUDA, Linux, multi-GPU inference, A4000/H100  
+**Tools:** Scikit-learn, HuggingFace, Streamlit, Gradio, Flask  
+**Also:** SQL, Java, C++, RabbitMQ, JavaScript
 
-### 🚀 Languages & Tools
-**Python**, SQL, PyTorch, Scikit-learn, OpenCV, Open3D, Huggingface, Flask, Streamlit, Gradio, Docker  
-**Also worked with:** Java, C++, RabbitMQ, JavaScript
+### 📫 Contact
+- 📧 [aak-204@yandex.ru](mailto:aak-204@yandex.ru)  
+- 📄 [Resume](https://disk.yandex.ru/i/4sWnhVoAZo1QpQ)
