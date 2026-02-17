@@ -10,7 +10,7 @@ I'm a **Middle ML Engineer** specializing in production AI systems:
 
 ### 🏢 Professional Experience
 **ML Engineer @ SibinTek Soft** (Rosneft subsidiary)  
-- Built AI verification system for construction documentation using **Qwen 32B VL**, reducing manual verification from **5-6 days to 2-3 hours**
+- Built AI verification system for construction documentation using **Qwen VL**, reducing manual verification from **5-6 days to 2-3 hours**
 - Developed multi-page **PDF->Excel digitization pipeline** (KS-2 forms) with Qwen VLM + matching algorithms
 - Deployed production VLM inference on **3x RTX A4000** cluster via vLLM + Docker, processing **800 pages/hour** with parallel optimization
 - Created AI assistant prototype for Excel with natural language formula generation
@@ -37,4 +37,3 @@ Bachelor's in Software Development - Diploma project on **railway safety systems
 
 ### 📫 Contact
 - 📧 [aak-204@yandex.ru](mailto:aak-204@yandex.ru)  
-- 📄 [Resume](https://disk.yandex.ru/i/4sWnhVoAZo1QpQ)
